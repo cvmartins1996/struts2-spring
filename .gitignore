@@ -1,0 +1,7 @@
+*/build/*
+*/build/
+*.txt
+*.project
+*.tern-project
+*.classpath
+*/.settings/*
